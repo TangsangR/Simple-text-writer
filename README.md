@@ -8,6 +8,7 @@
 </p>
 <p>
   📚 What I'm Trying Out To Add Next:
+  
 * Font customization (like changing typeface or size).
 
 * Word wrap toggle.
